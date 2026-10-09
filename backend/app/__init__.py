@@ -1,0 +1,1 @@
+"""ScamDar API package."""
